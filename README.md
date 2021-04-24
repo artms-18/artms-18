@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @artms-18
+- 👋 Hi, I’m @mika-shaw
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning "advanced tendorflow techniques" on coursera with deeplearning.ai
 - 💞️ I’m looking to collaborate on any python/data science related projects
