@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mika-shaw
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning "advanced tensorflow techniques" on coursera with deeplearning.ai
+- 🌱 I’m currently learning "quantum computing with qiskit" on coursera
 - 💞️ I’m looking to collaborate on any python/data science related projects
 - 📫 How to reach me @mika.m.shaw@gmail.com
 
